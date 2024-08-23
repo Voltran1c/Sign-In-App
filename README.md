@@ -15,13 +15,21 @@ A sign-in application built with React, Express.js, and MongoDB. Features includ
 1. Navigate to the backend directory:
    ```bash
    cd backend
-2. npm install
-3. Set up environment variables in a .env file
-4. npm run dev
+2.
+   ```bash
+   npm install
+4. Set up environment variables in a .env file
+5.
+   ```bash
+   npm run dev
 
 ### Frontend
 1. Navigate to the backend directory:
    ```bash
    cd frontend
-2. npm install
-3. node server.js
+2.
+   ```bash
+   npm install
+4.
+   ```bash
+   node server.js
